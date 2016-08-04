@@ -1,0 +1,25 @@
+_repo: Their-Mariposa-Legend--A-Romance-of-Santa-Catalina_5196
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Herr, Charlotte B. (Charlotte Bronte)
+    alias: Herr, Charlotte Bronte
+    birthdate: 1875
+    deathdate: 1963
+    gutenberg_agent_id: '4141'
+    url: http://www.gutenberg.org/2009/agents/4141
+description: ''
+gutenberg_issued: '2004-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '5196'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Santa Catalina Island (Calif.) -- Fiction'
+- GITenberg
+title: 'Their Mariposa Legend: A Romance of Santa Catalina'
+url: http://www.gutenberg.org/ebooks/5196
